@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Serigne1",
+    "database": "groupo",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Serigne1",
+    "database": "groupom",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Serigne1",
+    "database": "groupo",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
