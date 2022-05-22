@@ -24,6 +24,8 @@
 - `npm install`
 - Démarrez l'application: `nodemon server`
 
+Dans backend ouvrir le .env et mettre une clé de token
+
 #### 🚩 FRONTEND :
 
 - `npm install`
